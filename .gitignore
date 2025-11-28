@@ -1,0 +1,39 @@
+# Python caches and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (raw and processed)
+data/raw/
+data/processed/
+data/*.csv
+
+# Logs
+*.log
+
+# Configs with sensitive info
+config.py
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Mac system files
+*.DS_Store
+
+# Windows system files
+Desktop.ini
