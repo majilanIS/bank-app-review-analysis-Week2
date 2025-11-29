@@ -32,4 +32,6 @@ This notebook is mainly used for data understanding and exploratory data analysi
 
 ```bash
 jupyter notebook notebooks/preprocessing.ipynb
+and
+jupter notebooks/sentiment_and_thematic_analysis.iypnb
 ```
